@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+}
+h1 {
+  font-size: 4rem;;
+  font-family: 'Pacifico', cursive;
+  font-style: italic;
+  margin-top: 50px;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+h2 {
+  font-family: 'Montserrat', cursive;
+  color: #66BFBF;
+  font-size: 1.8em;
+  font-weight: 80px;
+}
+h3 {
+  font-family: 'Montserrat', cursive;
+  color: #11999E;
+  font-weight: bold;
+}
+a {
+  color: white;
+}
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #0C7B93;
+  width: 4%;
+}
+.img {
+  border-radius: 50%;
+  width: 250px;
+}
+.h1-p {
+  margin: 0 auto 0 auto ;
+  position: absolute;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 90px;
+  margin: 0;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+background-color: #66BFBF;
+padding-top: 20px;
+padding-bottom: 20px;
+color: #EAF6F6;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.middle-cloud {
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.calculus {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.logistics {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me {
+  margin: 100px auto 100px;
+  line-height: 2;
+}
+.btn {
+  background-color: #66BFBF;
+  border-style: inset;
+  font-size: 2em;
+}
